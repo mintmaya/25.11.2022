@@ -1,0 +1,8 @@
+C:\Users\Сайно\source\repos\25.11.2022\25.11.2022\bin\Debug\25.11.2022.exe.config
+C:\Users\Сайно\source\repos\25.11.2022\25.11.2022\bin\Debug\25.11.2022.exe
+C:\Users\Сайно\source\repos\25.11.2022\25.11.2022\bin\Debug\25.11.2022.pdb
+C:\Users\Сайно\source\repos\25.11.2022\25.11.2022\obj\Debug\25.11.2022.csproj.AssemblyReference.cache
+C:\Users\Сайно\source\repos\25.11.2022\25.11.2022\obj\Debug\25.11.2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сайно\source\repos\25.11.2022\25.11.2022\obj\Debug\25.11.2022.csproj.CoreCompileInputs.cache
+C:\Users\Сайно\source\repos\25.11.2022\25.11.2022\obj\Debug\25.11.2022.exe
+C:\Users\Сайно\source\repos\25.11.2022\25.11.2022\obj\Debug\25.11.2022.pdb
